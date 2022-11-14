@@ -1,0 +1,53 @@
+*{
+    text-decoration: none;
+}
+.logo{
+    margin-top: 20px;
+    margin-right: 20px;
+}
+.hero{
+    display:flex;
+    margin-left: 200px;
+    position:relative;
+    bottom:40px;
+}
+.nav-links{
+    margin-bottom:20px;
+    display:flex;
+    flex-direction:row;
+    padding:20px;
+}
+.basket{
+    margin-left: 1200px;
+    margin-right:20px;
+    position:relative;
+    bottom:20px;
+    top:2px;
+}
+.photo{
+    position:relative;
+    bottom:100px;
+    height:60px;
+    width:60px;
+}
+.header{
+    max-height:200px;
+}
+.shoes{
+    height:400px;
+    width:400px;
+}
+.shoesmodel{
+    display:flex;
+    border-radius: 5px;
+}
+.model{
+    padding:10px;
+    height:80px;
+    width:80px;
+    border-radius: 5px;
+}
+.sidebar{
+    position:flex;
+    flex-direction:row;
+}
